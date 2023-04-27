@@ -1,5 +1,4 @@
-const API_KEY = `361d09616673cceb2e017766dc221360`
-// const API = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${API_KEY}&units=metric`
+// 
 
 const form = document.querySelector("form")
 console.log(form)
